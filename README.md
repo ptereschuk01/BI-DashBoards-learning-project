@@ -19,7 +19,7 @@ This repository contains learning projects for data analysis and dashboard creat
 - Two dashboards created after online courses
 - Practiced visualization, KPIs, and dashboard design
 - Inspired by tutorial/course examples and extended for learning
-- Accessible online via Tableau Public:
+- Accessible online via [Tableau Public:](https://public.tableau.com/app/profile/tereshchuk.pavlo/vizzes)
   - [KP Product Analytics / Produktanalysen](https://public.tableau.com/app/profile/tereshchuk.pavlo/viz/002KPProductAnalytics/ProductAnalyticsProduktanalysen)
   - [KP BookSTEPIK](https://public.tableau.com/app/profile/tereshchuk.pavlo/viz/BookSTEPIK/Dashboard1)
   
@@ -29,3 +29,6 @@ All projects are tutorial/course-based learning projects created for educational
 ## Tools
 - Microsoft Excel
 - Tableau
+
+## Hinweis (DE)
+Dieses Repository enthält Projekte zur Datenanalyse und Dashboard-Erstellung in Excel und Tableau.
