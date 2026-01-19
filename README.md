@@ -13,7 +13,7 @@ This repository contains learning projects for data analysis and dashboard creat
 - Interactive dashboards created in Excel
 - KPI calculations, charts, and metrics
 - Data preparation and aggregation
-  - [Dashboard 1](https://public.tableau.com/app/profile/tereshchuk.pavlo/vizzes)
+  - [Dashboard 1](https://1drv.ms/x/c/6b24a051b62a8999/IQA-J8EAo9U0T5q9UsBate-XAQuFXViMDJP4XMQ1WKi0VVc?e=ADo03i)
 
 ### Tableau Dashboards
 - Two dashboards created after online courses
